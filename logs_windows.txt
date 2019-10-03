@@ -1,0 +1,8 @@
+jhuyuuyjhbjhbjbjhbjhbjbuvu<ctrl>sgit init
+git status
+git add <tab>keyloo<backspace>gge<backspace><backspace><tab>g
+<backspace>
+<backspace><backspace><backspace><backspace><backspace><backspace><backspace><tab>py
+git add key<tab>
+git sta<tab>tus
+gitt<backspace> add loga<backspace>s<tab>
